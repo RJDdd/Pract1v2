@@ -3,4 +3,4 @@
 
 ---
 
-- [Práctica 1](practica-1.md)
+- [Práctica 1](/Entregas-Practicas/practica-1.md)
